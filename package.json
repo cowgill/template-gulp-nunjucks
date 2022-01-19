@@ -3,7 +3,6 @@
     "version": "1.0.0",
     "description": "Gulp & Nunjucks setup example",
     "main": "index.js",
-    "dependencies": {},
     "devDependencies": {
         "del": "^6.0.0",
         "gulp": "^4.0.2",
@@ -14,6 +13,6 @@
         "start": "gulp",
         "build": "gulp build"
     },
-    "author": "Andres Hernandez <hernandez.andres.d@gmail.com>",
+    "author": "David Cowgill",
     "license": "ISC"
 }
